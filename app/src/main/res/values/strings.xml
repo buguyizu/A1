@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_save">Save</string>
+    <string name="button_next">Next</string>
+    <string name="button_share">Share</string>
+    <string name="label_1">Main</string>
+    <string name="label_2">Second</string>
+    <string name="label_3">third</string>
+    <string name="saved_message">saved_message</string>
+</resources>
