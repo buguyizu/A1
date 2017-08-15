@@ -19,6 +19,8 @@ import android.widget.ListView;
 /**
  * http://hukai.me/android-training-course-in-chinese/basics/firstapp/creating-project.html
  * http://blog.csdn.net/liyuanjinglyj/article/details/50402436
+ *
+ * http://www.iqiyi.com/v_19rrm8uyns.html#curid=505357100_acf4ff91674dd74053e8357abad05306 第6集
  */
 public class MyActivity extends AppCompatActivity {
 
@@ -73,6 +75,7 @@ public class MyActivity extends AppCompatActivity {
                 menu.add("a");
                 menu.add("b");
                 menu.add("c");
+                menu.add("d");
                 Log.i("5", "onCreateContextMenu");
             }
         });
